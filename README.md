@@ -1,2 +1,2 @@
 # alienelephant.github.io
-where all the nice things go to die
+# i edit this blog through the web interface like an animal
